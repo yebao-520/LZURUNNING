@@ -1,0 +1,4 @@
+环境为python3.10
+需要手动在文件夹内的终端输入pip install -r requirements.txt
+每次在终端运行
+python -B main.py -s

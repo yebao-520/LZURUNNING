@@ -1,0 +1,1 @@
+pyinstaller --onefile --name main --add-data "user.ini;." --add-data "config.ini;." --add-data "Joyrun;Joyrun" --add-data "init.bat;." --add-data "auto.py;." main.py -- -B -s
